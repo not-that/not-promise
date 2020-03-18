@@ -1,0 +1,22 @@
+{
+  "name": "not-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-that/not-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/not-that/not-promise/issues"
+  },
+  "homepage": "https://github.com/not-that/not-promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
